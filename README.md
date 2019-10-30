@@ -4,4 +4,4 @@ Projecting the islamic prayer times from a 00:00 PM\AM format unto an angular cl
 ## preview:
 https://editor.p5js.org/Hawzen/full/dR4Zqt3ti
 
-![picture](https://imgur.com/a/Gsegvm1)
+![picture](https://imgur.com/cMxWkhM)
